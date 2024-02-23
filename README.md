@@ -17,4 +17,4 @@
 
 
 
-# For tesseract to work you could install from https://tesseract-ocr.github.io/tessdoc/Installation.html
+For tesseract to work you could install from https://tesseract-ocr.github.io/tessdoc/Installation.html
